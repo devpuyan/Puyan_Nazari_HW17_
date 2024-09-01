@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SAEID_SHARIATI_HW17.props" />
+</Project>

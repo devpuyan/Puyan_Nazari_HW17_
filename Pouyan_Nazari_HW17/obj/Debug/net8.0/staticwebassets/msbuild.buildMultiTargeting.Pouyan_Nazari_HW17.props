@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Pouyan_Nazari_HW17.props" />
+</Project>

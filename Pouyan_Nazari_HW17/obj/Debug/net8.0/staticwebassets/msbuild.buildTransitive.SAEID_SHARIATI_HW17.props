@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/SAEID_SHARIATI_HW17.props" />
+</Project>

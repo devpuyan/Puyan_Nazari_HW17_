@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project\\SAEID_SHARIATI_HW17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC85A41-3638-4A36-B693-FEA22C3BF104}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\project\\saeid_shariati_hw17\\businesslogiclayer\\services\\orderitemservice\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC85A41-3638-4A36-B693-FEA22C3BF104}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\orderitemservice\\orderitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC16321-EA7A-46DC-8A82-6B5C98B6BF05}|SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17.csproj|e:\\project\\saeid_shariati_hw17\\saeid_shariati_hw17\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EC16321-EA7A-46DC-8A82-6B5C98B6BF05}|SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17.csproj|solutionrelative:saeid_shariati_hw17\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EC16321-EA7A-46DC-8A82-6B5C98B6BF05}|SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17.csproj|e:\\project\\saeid_shariati_hw17\\saeid_shariati_hw17\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EC16321-EA7A-46DC-8A82-6B5C98B6BF05}|SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17.csproj|solutionrelative:saeid_shariati_hw17\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC85A41-3638-4A36-B693-FEA22C3BF104}|BusinessLogicLayer\\BusinessLogicLayer.csproj|e:\\project\\saeid_shariati_hw17\\businesslogiclayer\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC85A41-3638-4A36-B693-FEA22C3BF104}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemService.cs",
+              "DocumentMoniker": "E:\\Project\\SAEID_SHARIATI_HW17\\BusinessLogicLayer\\Services\\OrderItemService\\OrderItemService.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\OrderItemService\\OrderItemService.cs",
+              "ToolTip": "E:\\Project\\SAEID_SHARIATI_HW17\\BusinessLogicLayer\\Services\\OrderItemService\\OrderItemService.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Services\\OrderItemService\\OrderItemService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:18:24.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "E:\\Project\\SAEID_SHARIATI_HW17\\BusinessLogicLayer\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\Model\\OrderDetail.cs",
+              "ToolTip": "E:\\Project\\SAEID_SHARIATI_HW17\\BusinessLogicLayer\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T19:10:30.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "SAEID_SHARIATI_HW17\\Views\\Order\\Index.cshtml",
+              "ToolTip": "E:\\Project\\SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "SAEID_SHARIATI_HW17\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T18:38:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Project\\SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SAEID_SHARIATI_HW17\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Project\\SAEID_SHARIATI_HW17\\SAEID_SHARIATI_HW17\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SAEID_SHARIATI_HW17\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:28:55.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
